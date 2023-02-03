@@ -1,0 +1,62 @@
+html {
+    background-color: #C4F09F;
+    font-family: "Signika Negative", Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+body {
+    margin: 0px;
+}
+
+#centre {
+    margin-top: 0px;
+    padding-top:0px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    min-width: 1000px;
+    max-width: 2000px;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+
+#header {
+    background-color: #1F271B;
+    color: #FFFFFF;
+    width: 100%;
+}
+
+.header-img {
+    width: 100%;
+}
+
+#header {
+    background-image: url("../images/garden.jpg");
+    background-size: cover;
+    object-position: 50% 50%;
+    padding-top: 20vh;
+}
+
+#header-text {
+    border-top: solid darkgreen 6px;
+    backdrop-filter: blur(8px) brightness(60%);
+    -webkit-backdrop-filter: blur(8px) brightness(60%);
+}
+
+#header h1, h2 {
+    margin: 0px;
+}
+
+#header h1 {
+    padding-top: 1em;
+    padding-bottom: 0.25em;
+}
+
+#header h2 {
+    padding-bottom: 1em;
+}
+
+#content {
+    padding: 1em;
+}
