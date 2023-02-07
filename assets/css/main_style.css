@@ -60,3 +60,11 @@ body {
 #content {
     padding: 1em;
 }
+
+
+#group-members {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
