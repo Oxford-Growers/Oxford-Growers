@@ -3,16 +3,18 @@ layout: default
 title: Core Group - Oxford Growers
 ---
 <div id="group-members">
-    <div id="thomas" class="core-group-member">
-        <h1>Thomas Kiley</h1>
-        <h2>hi@tkiley.co.uk</h2>
-    </div>
-    <div id="dominic" class="core-group-member">
-        <h1>Dominic Oram</h1>
-        <h2>Email</h2>
-    </div>
-    <div id="issac" class="core-group-member">
-        <h1>Issac</h1>
-        <h2>Email</h2>
-    </div>
+
+    {% for group_member in site.data.core_group.core_group %}
+        <div id="{{group_member.name}}" class="core-group-member">
+            <div class="group-left">
+                <img src="{{group_member.picture}}" alt="Picture of {{group_member.name}}" class="core-group-photo"/>
+            </div>
+            <div class="group-right">
+                <h1>{{group_member.name}}</h1>
+                <p class="pronouns">{{group_member.pronouns}}</p>
+                <p><a href="mailto:{{group_member.email}}">{{group_member.email}}</a></p>
+            </div>
+
+        </div>
+        {% endfor %}
 </div>
