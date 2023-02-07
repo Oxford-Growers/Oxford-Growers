@@ -102,3 +102,10 @@ body {
     min-height: 100%;
     object-fit: cover;
 }
+
+#footer {
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    text-align: left;
+    font-size: 0.5rem;
+}
