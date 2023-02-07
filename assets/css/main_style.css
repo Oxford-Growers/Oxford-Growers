@@ -67,4 +67,38 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    row-gap: 2rem;
+}
+
+.core-group-member {
+    width: 450px;
+}
+
+.group-left {
+    width: 30%;
+    height: 100%;
+    float: left;
+}
+
+.group-right {
+    width: 70%;
+    height: 100%;
+    float: right;
+    margin-left:0px;
+    padding-left: 0px;
+}
+
+.group-right p, h1 {
+    margin: 0.2em;
+}
+
+.pronouns {
+    font-size: 0.7rem;
+    font-style:italic;
+}
+
+.core-group-photo {
+    width: 100%;
+    min-height: 100%;
+    object-fit: cover;
 }
