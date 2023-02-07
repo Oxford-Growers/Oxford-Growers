@@ -61,6 +61,18 @@ body {
     padding: 1em;
 }
 
+#content h1 {
+    background-color: #C4F09F;
+    width: 100%;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+#markdown-toc {
+    text-align: left;
+}
 
 #group-members {
     display: flex;
