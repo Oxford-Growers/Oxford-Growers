@@ -11,14 +11,14 @@ title: Privacy Policy - Oxford Growers
 
 # Who are Oxford Growers?
 
-Oxford Growers are a community group that started in January 2023.
+Oxford Growers is a community group that started in January 2023.
 
 Broadly, our aims are to:
 
- * Connect people in Oxford to grow together.
+ * Connect people in Oxford to garden together.
  * Grow food to be distrubuted within the community.
 
-As part of this work, we may collect and hold data from this who get involved with Oxford Growers to organise this work and so are bound by laws regarding data collcetion, management and privacy. This privacy notice sets out our data policies in complicance with these laws.
+As part of this work, we may collect and hold data from those who choose to get involved with Oxford Growers and so are bound by laws regarding data collcetion, management and privacy. This privacy notice sets out our data policies in complicance with these laws.
 
 If you have questions about this privacy notice, you can contact us on [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com).
 
@@ -34,15 +34,15 @@ We collect the information provided in the survey, primarily:
 
 * Your interest in Oxford Growers.
 * A contact email address.
-* A approximate address.
+* A approximate address if you provide one.
 
 ## If you email us
 
-Any emails sent to [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com) then we may retain the content of the email as well as the email address the email was sent from.
+If you send an email to [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com), we may retain the content of the email as well as the email address it was sent from.
 
 ## If you get involved
 
-We may retain contact details including phone number. We may retain any other information you provide us with, such as relevant skills and experience.
+We may retain contact details including phone numbers. We may retain any other information you provide us with, such as relevant skills and experience.
 
 # Why do you collect this information?
 
@@ -60,7 +60,7 @@ To be able to organise the work of Oxford Growers. We will use this to ensure yo
 
 # Who collects this information?
 
-Information may be collected by any member of Oxford Growers whom you have contact, or by completing one of our online forms.
+Information may be collected by any member of Oxford Growers whom you have contact, by completing one of our online forms or emailing us.
 
 # Who will my information be shared with?
 
