@@ -5,15 +5,10 @@ title: Core Group - Oxford Growers
 <div id="group-members">
 
     {% for group_member in site.data.core_group.core_group %}
-        <div id="{{group_member.name}}" class="core-group-member">
-            <div class="group-left">
-                <img src="{{group_member.picture}}" alt="Picture of {{group_member.name}}" class="core-group-photo"/>
-            </div>
-            <div class="group-right">
-                <h1>{{group_member.name}}</h1>
-                <p class="pronouns">{{group_member.pronouns}}</p>
-            </div>
-
-        </div>
-        {% endfor %}
+        {% include group_member.html
+            group_member_name = group_member.name
+            group_member_picture = group_member.picture
+            group_member_pronouns = group_member.pronouns
+        %}
+    {% endfor %}
 </div>
