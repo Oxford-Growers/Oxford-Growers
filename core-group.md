@@ -2,8 +2,11 @@
 layout: default
 title: Core Group - Oxford Growers
 ---
-<div id="group-members">
+The core group are responsible for making initial contact with people who want to get involved in Oxford Growers.
 
+You can contact us through [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com)
+
+<div id="group-members">
     {% for group_member in site.data.core_group.core_group %}
         {% include group_member.html
             group_member_name = group_member.name
