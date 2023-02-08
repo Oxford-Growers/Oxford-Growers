@@ -9,7 +9,7 @@ title: Privacy Policy - Oxford Growers
 * TOC Stub
 {:toc}
 
-# Who are Oxford Gowers?
+# Who are Oxford Growers?
 
 Oxford Growers are a community group that started in January 2023.
 
