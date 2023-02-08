@@ -1,10 +1,14 @@
 <div id="{{include.group_member_name}}" class="core-group-member">
     <div class="group-left">
-        <img src="{{include.group_member_picture}}" alt="Picture of {{include.group_member_name}}" class="core-group-photo"/>
+        {% if include.group_member_picture != null %}
+            <img src="{{include.group_member_picture}}" alt="Picture of {{include.group_member_name}}" class="core-group-photo"/>
+        {% endif %}
     </div>
     <div class="group-right">
         <h1>{{include.group_member_name}}</h1>
-        <p class="pronouns">{{include.group_member_pronouns}}</p>
+        {% if include.group_member_pronouns != null %}
+            <p class="pronouns">{{include.group_member_pronouns}}</p>
+        {% endif %}
     </div>
 
 </div>
