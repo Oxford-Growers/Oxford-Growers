@@ -1,15 +1,12 @@
 core_group:
   - name: Thomas Kiley
     pronouns: He or they
-    email: hi@tkiley.co.uk
     picture: assets/images/core-group/thomas_kiley.jpg
 
   - name: Dominic Oram
     pronouns: TODO
-    email: TODO
     picture: assets/images/core-group/TODO.jpg
 
   - name: Issac Mear
     pronouns: TODO
-    email: TODO
     picture: assets/images/core-group/TODO.jpg
