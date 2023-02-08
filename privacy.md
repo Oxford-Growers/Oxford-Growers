@@ -36,6 +36,10 @@ We collect the information provided in the survey, primarily:
 * A contact email address.
 * A approximate address.
 
+## If you email us
+
+Any emails sent to [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com) then we may retain the content of the email as well as the email address the email was sent from.
+
 ## If you get involved
 
 We may retain contact details including phone number. We may retain any other information you provide us with, such as relevant skills and experience.
@@ -45,6 +49,10 @@ We may retain contact details including phone number. We may retain any other in
 ## If you fill out our survey
 
 To be able to discuss your involvment, and invite you to the next meeting.
+
+## If you email us
+
+To be able to respond to the email, and to refer back to previous conversations.
 
 ## If you get involved
 
@@ -58,7 +66,9 @@ Information may be collected by any member of Oxford Growers whom you have conta
 
 ## Internally within Oxford Growers.
 
-Information collected from the survey before you have got involved will be shared with the core group. You can see who is in the core group on the [Core Group page](core-group.html).
+Information collected from the survey before you have got involved will be shared with the core group. All emails sent to [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com) can be seen by the core group.
+
+You can see who is in the core group on the [Core Group page](core-group.html).
 
 If you choose to get involved, contact details will be shared mutually in a group of people who are going to work together. This will be done via being added to a WhatsApp group, or as the group mutually decides is appropriate.
 
@@ -73,6 +83,8 @@ Oxford Growers will never share any of your information with third parties for c
 All information you provide to us is stored securely, normally in a Google Spreadsheet. Additionally, your number will be stored as part of relevant WhatsApp groups. As some of Google’s servers are outside of the European Economic Area (EEA) this may involve transfer of your data outside the EEA. However, we are satisfied that Google meets the requirements set out in GDPR regulations for safe transfer of data.
 
 Information collected from the survey before you have got involved will be kept until we have organised either an initial meeting with you individually, or as part of a larger group. We will then retain it for two weeks after that meeting to faciliate communication to establish if you want to get involved. If no meeting happens within a year, we will delete the information.
+
+Email communication will be stored in GMail. As some of Google’s servers are outside of the European Economic Area (EEA) this may involve transfer of your data outside the EEA. However, we are satisfied that Google meets the requirements set out in GDPR regulations for safe transfer of data. Emails may be retained for up to two years after the last communication from you.
 
 If you choose to get involved, we may keep your information until a year after you stop being involved in case you choose to return.
 
