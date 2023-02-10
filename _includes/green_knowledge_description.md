@@ -1,3 +1,7 @@
 # Green knowledge providers
 
-If you know lots about growing fruit and veg, then you can help growers come up with plans for new gardens, and share your knowledge of how to effectively grow stuff.
+<svg viewBox="0 0 20 18" class="logo-image">
+    <text x="0" y="15">🦉</text>
+</svg>
+
+Share your gardening know-how with others in the community.

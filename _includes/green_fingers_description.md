@@ -1,3 +1,7 @@
 # Green Fingers Provider
 
-If you want to do some gardening, but want to do it with others, or perhaps don’t have access to your own green space, then you can help growers by going round with others to growers gardens and growing (and harvesting) fruit and veg.
+<svg viewBox="0 0 20 18" class="logo-image">
+    <text x="0" y="15">🧑‍🌾</text>
+</svg>
+
+Get your fingers dirty by doing gardening with others in your area.

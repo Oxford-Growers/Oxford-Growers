@@ -1,3 +1,7 @@
-# Green spaces provider
+# Green Spaces Provider
 
-If you have a garden that you would like to make more use of but don’t have the time or skills, then you can help Growers by providing space for growing vegetables
+<svg viewBox="0 0 20 18"  class="logo-image">
+    <text x="0" y="15">🏡</text>
+</svg>
+
+Get help with making the best use of some or all of your garden to grow food and flowers.

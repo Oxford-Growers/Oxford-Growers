@@ -1,29 +1,14 @@
 <div id="how-it-works-box">
     <div id="green-fingers" class="how-it-works-role">
-        <div class="logo">
-            {% capture green_fingers_description %}{% include green_fingers_description.md %}{% endcapture %}
-            {{ green_fingers_description | markdownify }}
-            <svg viewBox="0 0 20 18" class="logo-image">
-                <text x="0" y="15">🧑‍🌾</text>
-            </svg>
-        </div>
+        {% capture green_fingers_description %}{% include green_fingers_description.md %}{% endcapture %}
+        {{ green_fingers_description | markdownify }}
     </div>
     <div id="green-space" class="how-it-works-role">
-        <div class="logo">
-            {% capture green_space_description %}{% include green_space_description.md %}{% endcapture %}
-            {{ green_space_description | markdownify }}
-            <svg viewBox="0 0 20 18"  class="logo-image">
-                <text x="0" y="15">🏡</text>
-            </svg>
-        </div>
+        {% capture green_space_description %}{% include green_space_description.md %}{% endcapture %}
+        {{ green_space_description | markdownify }}
     </div>
     <div id="green-knowledge" class="how-it-works-role">
-        <div class="logo">
-            {% capture green_knowledge_description %}{% include green_knowledge_description.md %}{% endcapture %}
-            {{ green_knowledge_description | markdownify }}
-            <svg viewBox="0 0 20 18" class="logo-image">
-                <text x="0" y="15">🦉</text>
-            </svg>
-        </div>
+        {% capture green_knowledge_description %}{% include green_knowledge_description.md %}{% endcapture %}
+        {{ green_knowledge_description | markdownify }}
     </div>
 </div>
