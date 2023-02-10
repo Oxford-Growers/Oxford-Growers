@@ -64,6 +64,7 @@ body {
 #content h1 {
     background-color: #C4F09F;
     width: 100%;
+    margin-left: 0px;
 }
 
 ul {
@@ -121,4 +122,42 @@ ul {
     padding-bottom: 1rem;
     text-align: left;
     font-size: 0.5rem;
+}
+
+#how-it-works-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    column-gap: 0.1rem;
+    row-gap: 2rem;
+}
+
+.how-it-works-role {
+    width: 15%;
+    min-width: 210px;
+    margin: 0px 15px;
+    font-size: 0.5rem;
+    flex-grow: 1;
+    border: solid darkgreen;
+    padding-bottom: 56px;
+}
+
+.logo {
+    position: relative;
+    top: 0px;
+    height:100%;
+}
+
+.logo-image {
+    width: 56px;
+    position: absolute;
+    bottom: calc(10px - 56px);
+    left: calc(50% - 23px);
+}
+
+
+
+.how-it-works-role h1 {
+    width: fit-content;
 }
