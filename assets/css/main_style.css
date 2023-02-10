@@ -45,7 +45,7 @@ body {
 }
 
 #header h1, h2 {
-    margin: 0px;
+    margin: 0px 0px 0px;
 }
 
 #header h1 {
@@ -103,7 +103,7 @@ ul {
 }
 
 .group-right p, h1 {
-    margin: 0.2em;
+    margin-top: 0.2em;
 }
 
 .pronouns {
@@ -129,6 +129,7 @@ ul {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-around;
+    align-self: center;
     column-gap: 0.1rem;
     row-gap: 2rem;
 }
@@ -136,28 +137,24 @@ ul {
 .how-it-works-role {
     width: 15%;
     min-width: 210px;
-    margin: 0px 15px;
+    margin: 0px;
     font-size: 0.5rem;
     flex-grow: 1;
     border: solid darkgreen;
-    padding-bottom: 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+
 }
 
-.logo {
-    position: relative;
-    top: 0px;
-    height:100%;
+.how-it-works-role p {
+    margin: auto 0.5em;
 }
 
 .logo-image {
-    width: 56px;
-    position: absolute;
-    bottom: calc(10px - 56px);
-    left: calc(50% - 23px);
+    max-width: 56px;
+    padding: 0.5em;
 }
 
-
-
-.how-it-works-role h1 {
-    width: fit-content;
-}
