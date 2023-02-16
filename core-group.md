@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Core Group - Oxford Growers
+title: Core Group - Oxford Growers Network
 ---
-The core group are responsible for making initial contact with people who want to get involved in Oxford Growers.
+The core group are responsible for making initial contact with people who want to get involved in Oxford Growers Network.
 
-You can contact us through [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com)
+You can contact us through {% include contact_email.md %}
 
 <div id="group-members">
     {% for group_member in site.data.core_group.core_group %}
