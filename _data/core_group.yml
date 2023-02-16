@@ -2,3 +2,8 @@ core_group:
   - name: Thomas Kiley
     pronouns: He or they
     picture: assets/images/core-group/thomas_kiley.jpg
+  - name: Isaac Mear
+    pronouns: He or they
+    picture: assets/images/core-group/isaac_mear.jpg
+  - name: Dominic Oram
+    pronouns: He/him
