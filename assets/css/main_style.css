@@ -45,7 +45,7 @@ body {
 }
 
 #header h1, h2 {
-    margin: 0px;
+    margin: 0px 0px 0px;
 }
 
 #header h1 {
@@ -64,6 +64,7 @@ body {
 #content h1 {
     background-color: #C4F09F;
     width: 100%;
+    margin-left: 0px;
 }
 
 ul {
@@ -102,7 +103,7 @@ ul {
 }
 
 .group-right p, h1 {
-    margin: 0.2em;
+    margin-top: 0.2em;
 }
 
 .pronouns {
@@ -117,8 +118,76 @@ ul {
 }
 
 #footer {
+    margin-top: 1rem;
     padding-left: 1rem;
     padding-bottom: 1rem;
     text-align: left;
     font-size: 0.5rem;
+}
+
+#how-it-works-box {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-self: center;
+    column-gap: 0.1rem;
+    row-gap: 2rem;
+}
+
+.how-it-works-role {
+    width: 15%;
+    min-width: 210px;
+    margin: 0px;
+    font-size: 0.5rem;
+    flex-grow: 1;
+    border: solid darkgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+
+}
+
+.how-it-works-role p {
+    margin: auto 0.5em;
+}
+
+.logo-image {
+    max-width: 56px;
+    padding: 0.5em;
+}
+
+
+blockquote {
+    text-align: right;
+    background-color: #C4F09F;
+    padding: 1em;
+    font-style: italic;
+    font-size: 1.25em;
+    font-family: serif;
+}
+
+@media only screen and (orientation: portrait), (max-width:400px) {
+    blockquote {
+        margin: 0px;
+    }
+
+    #content {
+        padding: 0px;
+    }
+}
+
+#survey-link {
+    background-color: #C4F09F;
+    width: 80%;
+    margin: auto;
+    padding: 0.5em 1em;
+    border-style: solid;
+    border-color: #1F271B;
+    /* Ensure survey link don't bust out of the container on narrow devices
+       https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
 }

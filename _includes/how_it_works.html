@@ -1,0 +1,14 @@
+<div id="how-it-works-box">
+    <div id="green-fingers" class="how-it-works-role">
+        {% capture green_fingers_description %}{% include green_fingers_description.md %}{% endcapture %}
+        {{ green_fingers_description | markdownify }}
+    </div>
+    <div id="green-space" class="how-it-works-role">
+        {% capture green_space_description %}{% include green_space_description.md %}{% endcapture %}
+        {{ green_space_description | markdownify }}
+    </div>
+    <div id="green-knowledge" class="how-it-works-role">
+        {% capture green_knowledge_description %}{% include green_knowledge_description.md %}{% endcapture %}
+        {{ green_knowledge_description | markdownify }}
+    </div>
+</div>
