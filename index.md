@@ -16,7 +16,7 @@ Oxford Growers brings groups together, with different people bringing different 
 
 # Who we are
 
-The Oxford Growers Network is a queer radical organisation based on the principle of mutual aid and prefigurative political action. It will connect groups of people to help each garden and grow.
+The Oxford Growers Network is a queer radical organisation based on the principle of mutual aid and prefigurative political action. It will connect groups of people to help each other make the most of their gardens.
 
 *[mutual aid]: members of the community coming together to help each other in the ways they can
 *[prefigurative political action]: building the society we want to see inside the existing society
