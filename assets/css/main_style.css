@@ -158,3 +158,12 @@ ul {
     padding: 0.5em;
 }
 
+
+blockquote {
+    text-align: right;
+    background-color: #C4F09F;
+    padding: 1em;
+    font-style: italic;
+    font-size: 1.25em;
+    font-family: serif;
+}
