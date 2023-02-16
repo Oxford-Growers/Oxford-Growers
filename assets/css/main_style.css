@@ -167,3 +167,26 @@ blockquote {
     font-size: 1.25em;
     font-family: serif;
 }
+
+@media only screen and (orientation: portrait), (max-width:400px) {
+    blockquote {
+        margin: 0px;
+    }
+
+    #content {
+        padding: 0px;
+    }
+}
+
+#survey-link {
+    background-color: #C4F09F;
+    width: 80%;
+    margin: auto;
+    padding: 0.5em 1em;
+    border-style: solid;
+    border-color: #1F271B;
+    /* Ensure survey link don't bust out of the container on narrow devices
+       https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/ */
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}

@@ -4,7 +4,9 @@ title: Oxford Growers Network
 ---
 The Oxford Growers Network exists to connect people to make gardening and growing more social and to help the local community and ecosystem thrive.
 
-Fill out out sign-up survery to get involved: [https://forms.gle/2AjeuTXp7XXuP4fb9](https://forms.gle/2AjeuTXp7XXuP4fb9)
+{% include survey_link.html %}
+
+We'll be in touch to arrange an initial online meeting.
 
 # How it works
 
