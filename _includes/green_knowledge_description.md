@@ -1,4 +1,4 @@
-# Green knowledge providers
+# Green Knowledge Provider
 
 <svg viewBox="0 0 20 18" class="logo-image">
     <title>Owl emoji</title>
