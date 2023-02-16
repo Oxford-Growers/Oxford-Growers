@@ -21,4 +21,4 @@ The Oxford Growers Network is a queer radical organisation based on the principl
 
 > “What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.”
 >
-> - Kurt Vonnegut, 1981
+> – Kurt Vonnegut, 1981
