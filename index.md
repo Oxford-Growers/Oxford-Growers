@@ -18,3 +18,7 @@ The Oxford Growers Network is a queer radical organisation based on the principl
 
 *[mutual aid]: members of the community coming together to help each other in the ways they can
 *[prefigurative political action]: building the society we want to see inside the existing society
+
+> “What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.”
+>
+> – Kurt Vonnegut
