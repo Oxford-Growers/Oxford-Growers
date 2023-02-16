@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy - Oxford Growers
+title: Privacy Policy - Oxford Growers Network
 ---
 
 # Contents
@@ -9,18 +9,18 @@ title: Privacy Policy - Oxford Growers
 * TOC Stub
 {:toc}
 
-# Who are Oxford Growers?
+# Who are the Oxford Growers Network?
 
-Oxford Growers is a community group that started in January 2023.
+The Oxford Growers Network is a community group that started in January 2023.
 
 Broadly, our aims are to:
 
  * Connect people in Oxford to garden together.
  * Grow food to be distrubuted within the community.
 
-As part of this work, we may collect and hold data from those who choose to get involved with Oxford Growers and so are bound by laws regarding data collcetion, management and privacy. This privacy notice sets out our data policies in complicance with these laws.
+As part of this work, we may collect and hold data from those who choose to get involved with the Oxford Growers Network and so are bound by laws regarding data collcetion, management and privacy. This privacy notice sets out our data policies in complicance with these laws.
 
-If you have questions about this privacy notice, you can contact us on [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com).
+If you have questions about this privacy notice, you can contact us on {% include contact_email.md %}.
 
 # What information do you collect?
 
@@ -32,13 +32,13 @@ We do not currently collect or store any data for visitors of the website.
 
 We collect the information provided in the survey, primarily:
 
-* Your interest in Oxford Growers.
+* Your interest in the Oxford Growers Network.
 * A contact email address.
 * A approximate address if you provide one.
 
 ## If you email us
 
-If you send an email to [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com), we may retain the content of the email as well as the email address it was sent from.
+If you send an email to {% include contact_email.md %}, we may retain the content of the email as well as the email address it was sent from.
 
 ## If you get involved
 
@@ -56,17 +56,17 @@ To be able to respond to the email, and to refer back to previous conversations.
 
 ## If you get involved
 
-To be able to organise the work of Oxford Growers. We will use this to ensure you are added to relevant WhatsApp groups.
+To be able to organise the work of the Oxford Growers Network. We will use this to ensure you are added to relevant WhatsApp groups.
 
 # Who collects this information?
 
-Information may be collected by any member of Oxford Growers whom you have contact, by completing one of our online forms or emailing us.
+Information may be collected by any member of the Oxford Growers Network whom you have contact, by completing one of our online forms or emailing us.
 
 # Who will my information be shared with?
 
-## Internally within Oxford Growers.
+## Internally within the Oxford Growers Network.
 
-Information collected from the survey before you have got involved will be shared with the core group. All emails sent to [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com) can be seen by the core group.
+Information collected from the survey before you have got involved will be shared with the core group. All emails sent to {% include contact_email.md %} can be seen by the core group.
 
 You can see who is in the core group on the [Core Group page](core-group.html).
 
@@ -76,7 +76,7 @@ If you choose to get involved, contact details will be shared mutually in a grou
 
 We do not share any information with any external organisations, and would seek explicit consent in the event that we thought this would be useful.
 
-Oxford Growers will never share any of your information with third parties for commercial or marketing purposes.
+Oxford Growers Network will never share any of your information with third parties for commercial or marketing purposes.
 
 # How is my information stored, and how long will you keep it?
 
@@ -97,10 +97,10 @@ The data protection laws give you certain rights over your personal information 
 * the right, in certain circumstances, to object to specific uses of your data; and
 * the right, in certain circumstances, to request the information that we hold about you to be deleted.
 
-If you wish to exercise any of these rights, please contact us at [oxfordgrowers@gmail.com](mailto:oxfordgrowers@gmail.com).
+If you wish to exercise any of these rights, please contact us at {% include contact_email.md %}.
 
 If you wish to report a breach in data protection regulations you can find more information on the Information Commissioner’s Website: https://ico.org.uk/
 
 # Changes to this policy
 
-Oxford Growers may need to update this policy. These changes will be agreed by the [core group](core-group.html) and except in exceptional circumstances with the consent of anyone whose data is held. Changes to this page can be tracked via this [websites Github Page](https://github.com/Oxford-Growers/oxford-growers.github.io).
+The Oxford Growers Network may need to update this policy. These changes will be agreed by the [core group](core-group.html) and except in exceptional circumstances with the consent of anyone whose data is held. Changes to this page can be tracked via this [websites Github Page](https://github.com/oxfordgrowersnetwork/oxfordgrowersnetwork.github.io).
