@@ -132,7 +132,7 @@ ul {
     justify-content: space-around;
     align-self: center;
     column-gap: 0.1rem;
-    row-gap: 2rem;
+    row-gap: 1rem;
 }
 
 .how-it-works-role {

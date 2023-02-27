@@ -10,9 +10,11 @@ We'll be in touch to arrange an initial online meeting.
 
 # How it works
 
-Oxford Growers brings groups together, with different people bringing different skills:
+Oxford Growers brings groups together, with different people bringing different skills and resources:
 
 {% include how_it_works.html %}
+
+You might belong to more than one, or even all three groups - and that is great too!
 
 # Who we are
 
